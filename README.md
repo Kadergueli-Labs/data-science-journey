@@ -1,91 +1,60 @@
 # Data Science Journey
 
-**Learning · Experimentation · Documentation · Continuous Improvement**
+**Learning · Experimentation · Research · Continuous Improvement**
 
 Welcome to my Data Science Journey.
 
-This repository documents my technical growth in data science, from foundational concepts to practical experiments in data analysis, statistics, and machine learning.
+I am a Computer Science student building a strong foundation in data science, statistics, programming, and machine learning through structured learning and practical experimentation.
 
-The goal is to build a strong understanding of data-driven methods through consistent practice, structured learning, and documented experiments.
+This repository documents my progress, from fundamental concepts to applied projects, with an emphasis on understanding methods, analyzing data responsibly, and documenting results.
 
-## Learning Areas
+## Learning Roadmap
 
-### 01. Python Programming
-Developing programming fundamentals and learning to work with data using Python.
+| Area | Focus | Explore |
+|---|---|---|
+| Python Programming | Programming fundamentals and data manipulation | [01-python](01-python/) |
+| Statistics & Probability | Statistical reasoning and mathematical foundations | [02-statistics-probability](02-statistics-probability/) |
+| SQL & Databases | Querying and organizing structured data | [03-sql-databases](03-sql-databases/) |
+| Data Analysis | Data cleaning, exploration, and visualization | [04-data-analysis](04-data-analysis/) |
+| Machine Learning | Predictive modeling and model evaluation | [05-machine-learning](05-machine-learning/) |
+| Deep Learning & AI | Neural networks and advanced AI methods | [06-deep-learning-ai](06-deep-learning-ai/) |
+| Practical Projects | Applying concepts to real-world problems | [07-projects](07-projects/) |
+| Progress Log | Learning milestones and reflections | [progress-log](progress-log/) |
 
-Topics:
-- Python fundamentals
-- Data structures and functions
-- NumPy and pandas
-- Problem-solving exercises
+## Tools and Technologies
 
-### 02. Statistics and Probability
-Building the mathematical foundation required to understand and analyze data.
+Tools will be introduced as I learn and apply them.
 
-Topics:
-- Descriptive statistics
-- Probability
-- Statistical distributions
-- Correlation and statistical reasoning
+- **Programming:** Python, SQL
+- **Data manipulation:** pandas, NumPy
+- **Visualization:** Matplotlib
+- **Machine Learning:** scikit-learn
+- **Development environments:** Jupyter Notebook, Google Colab
+- **Version control:** Git and GitHub
 
-### 03. SQL and Databases
-Learning to retrieve, organize, and analyze structured data.
+## Learning Philosophy
 
-Topics:
-- SQL fundamentals
-- Filtering and aggregation
-- Joins and subqueries
-- Database concepts
+- Understand concepts before applying them.
+- Practice with real-world and publicly available datasets.
+- Evaluate data quality before drawing conclusions.
+- Document assumptions, methods, and limitations.
+- Learn from mistakes and improve through iteration.
+- Make experiments reproducible whenever possible.
 
-### 04. Data Analysis
-Learning how to transform raw data into meaningful insights.
+## Progress
 
-Topics:
-- Data exploration
-- Data cleaning
-- Missing-value analysis
-- Exploratory data analysis (EDA)
-- Data visualization
+This repository will evolve alongside my studies and practical experience.
 
-### 05. Machine Learning
-Exploring algorithms and techniques for learning from data.
+New exercises, analyses, experiments, and projects will be added as I develop my skills.
 
-Topics:
-- Regression
-- Classification
-- Feature engineering
-- Model evaluation
-- Overfitting and generalization
+For each substantial project, I aim to explain the problem, methodology, results, and limitations.
 
-### 06. Deep Learning and Artificial Intelligence
-Exploring advanced methods as my knowledge and practical experience develop.
+## Related Work
 
-Topics will be added as I study and experiment with them.
+My broader technical work and independent projects are maintained separately in their respective repositories.
 
-## Repository Structure
+This repository focuses on my learning process and the practical application of data science concepts.
 
-The repository is organized into learning areas, practical exercises, experiments, and progress documentation.
+---
 
-| Learning Area | Description |
-|---|---|
-| **Python Programming** | Programming fundamentals, exercises, and practical examples. |
-| **Statistics & Probability** | Statistical concepts, probability, and mathematical foundations. |
-| **SQL & Databases** | SQL queries, database concepts, and exercises. |
-| **Data Analysis** | Data cleaning, exploratory analysis, and visualization. |
-| **Machine Learning** | Algorithms, model training, and evaluation. |
-| **Deep Learning** | Neural networks and advanced learning methods. |
-| **Progress Log** | Learning milestones, reflections, and progress reports. |
-
-## Learning Approach
-My approach emphasizes:
-- Understanding concepts before applying them.
-- Practicing with real-world and publicly available datasets.
-- Documenting methods, assumptions, and results.
-- Comparing approaches instead of relying on a single solution.
-- Learning from mistakes and improving through iteration.
-## Progress Log
-This repository will evolve as I acquire new skills, complete exercises, and conduct experiments.
-Each significant learning milestone will be documented to make the progression of my knowledge visible and reproducible.
-## Current Focus
-Building strong foundations in Python, statistics, data analysis, and machine learning while developing the ability to solve practical problems with data.
-Learn consistently. Experiment carefully. Improve continuously.
+*Learn consistently. Analyze critically. Build with purpose.*
