@@ -66,13 +66,26 @@ Topics will be added as I study and experiment with them.
 
 The repository is organized into learning areas, practical exercises, experiments, and progress documentation.
 
-```text
-data-science-journey/
-├── README.md
-├── 01-python/
-├── 02-statistics/
-├── 03-sql/
-├── 04-data-analysis/
-├── 05-machine-learning/
-├── 06-deep-learning/
-└── progress-log/
+| Learning Area | Description |
+|---|---|
+| **Python Programming** | Programming fundamentals, exercises, and practical examples. |
+| **Statistics & Probability** | Statistical concepts, probability, and mathematical foundations. |
+| **SQL & Databases** | SQL queries, database concepts, and exercises. |
+| **Data Analysis** | Data cleaning, exploratory analysis, and visualization. |
+| **Machine Learning** | Algorithms, model training, and evaluation. |
+| **Deep Learning** | Neural networks and advanced learning methods. |
+| **Progress Log** | Learning milestones, reflections, and progress reports. |
+
+## Learning Approach
+My approach emphasizes:
+- Understanding concepts before applying them.
+- Practicing with real-world and publicly available datasets.
+- Documenting methods, assumptions, and results.
+- Comparing approaches instead of relying on a single solution.
+- Learning from mistakes and improving through iteration.
+## Progress Log
+This repository will evolve as I acquire new skills, complete exercises, and conduct experiments.
+Each significant learning milestone will be documented to make the progression of my knowledge visible and reproducible.
+## Current Focus
+Building strong foundations in Python, statistics, data analysis, and machine learning while developing the ability to solve practical problems with data.
+Learn consistently. Experiment carefully. Improve continuously.
